@@ -1,5 +1,4 @@
-![Novo_projeto_16_754EADD](https://user-images.githubusercontent.com/109999325/221437884-b1f86ada-f472-4b5b-805f-61f8f3c9d1e7.gif)
-
+<img src="https://user-images.githubusercontent.com/109999325/221437884-b1f86ada-f472-4b5b-805f-61f8f3c9d1e7.gif" width="1200" height="400" autoplay>
 # Nós somos Jexactyl-Brasil.
 
 - Somos uma equipe criada com o objetivo de portar o Fork Jexactyl para a língua portuguesa.
