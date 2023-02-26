@@ -13,12 +13,7 @@
 |--------------------------------------------------------------------------------------------------------------------------------------------------|
 |[![Logo Image](https://cdn.discordapp.com/attachments/1012411945141424218/1012430446556090468/JexactylBannerBasic.jpg)](https://jexactylbrasil.ml)|
 
-| Administração | Painel do Cliente |
-|-----------------|-----------------|
-| ![Imagem 1](./image/jexactyl-admin.png) | ![Imagem 2](./image/jexactyl-console-client.png) |
-| ![Imagem 3](./image/temaescuro.png) | ![Imagem 4](./image/jexactyl-console-shop.png) |
-
-| Jexactyl - Traduzido para Português |
+| Informações |
 |-------------------------------------|
 | O Jexactyl é um fork de código aberto e rico em recursos do [Pterodactyl](https://pterodactyl.io) que inclui vários recursos e melhorias em relação ao software existente.|
 
@@ -43,12 +38,7 @@
 |--------------------------------------------------------------------------------------------------|
 |[![Logo Image](https://cdn.pterodactyl.io/logos/new/pterodactyl_logo.png)](https://pterodactyl.io)|
 
-| Administração | Painel do Cliente |
-|-----------------|-----------------|
-| ![image](https://user-images.githubusercontent.com/109999325/221443956-b16754a3-8d1c-46cd-93df-8aaa090ab559.png)| ![image](https://user-images.githubusercontent.com/109999325/221443864-b87090e9-503f-4afc-9662-534958f746d7.png) |
-| ![image](https://user-images.githubusercontent.com/109999325/221444022-f9837c80-f9df-4bdb-9fe2-2f5b95a52a2e.png)| ![image](https://user-images.githubusercontent.com/109999325/221443925-b0f47661-fbd8-4988-ad22-dd9540226361.png) |
-
-| Pterodactyl - Traduzido para Português |
+| Informações |
 |-------------------------------------|
 |O Pterodactyl® é um painel de gerenciamento de servidor de jogos gratuito e de código aberto construído com PHP, React e Go. Projetado com segurança em mente, o Pterodactyl executa todos os servidores de jogos em contêineres Docker isolados enquanto expõe uma interface bonita e intuitiva IU para usuários finais.
 Pare de se contentar com menos. Torne os servidores de jogo um cidadão de primeira classe em sua plataforma.|
@@ -82,8 +72,8 @@ e há muitos outros jogos disponíveis fornecidos pela comunidade. Alguns desses
 * Discord ATLBot, e outros Node.js/Python discord bots
 * [e muito mais...](https://github.com/parkervcp/eggs)
 
-*Jexactyl, Um projeto de [@cmrxnn](https://github.com/cmrxnn).*
+*[Jexactyl](https://jexactyl.com), Um projeto de [@cmrxnn](https://github.com/cmrxnn).*
 
-*Pterodactyl®, Um projeto de Dane Everitt e colaboradores.*
+*[Pterodactyl®](https://pterodactyl.io), Um projeto de Dane Everitt e colaboradores.*
 
 *Traduções pela Equipe da NextPanel 2023®.*
