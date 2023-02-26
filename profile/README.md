@@ -1,4 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/1005181663027929210/1079510945140838612/Novo_projeto_16_754EADD.gif)
+![image](./gif/Novo_projeto_16_754EADD.gif)
 
 # Nós somos Jexactyl-Brasil.
 
