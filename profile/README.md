@@ -72,7 +72,7 @@ e há muitos outros jogos disponíveis fornecidos pela comunidade. Alguns desses
 * Discord ATLBot, e outros Node.js/Python discord bots
 * [e muito mais...](https://github.com/parkervcp/eggs)
 
-*[Jexactyl](https://jexactyl.com), Um projeto de [@cmrxnn](https://github.com/cmrxnn).*
+*[Jexactyl](https://jexactyl.com), Um projeto de [@cmrxnn](https://github.com/cmrxnn) e colaboradores.*
 
 *[Pterodactyl®](https://pterodactyl.io), Um projeto de Dane Everitt e colaboradores.*
 
