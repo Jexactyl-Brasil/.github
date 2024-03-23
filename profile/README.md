@@ -11,7 +11,7 @@
 
 | Jexactyl - Traduzido para Português |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|
-|[![Logo Image](https://cdn.discordapp.com/attachments/1012411945141424218/1012430446556090468/JexactylBannerBasic.jpg)](https://jexactylbrasil.ml)|
+|[![Logo Image](https://raw.githubusercontent.com/Next-Panel/.github/main/profile/image/jexactyl-banner.jpeg)](https://jexactylbrasil.ml)|
 
 | Informações |
 |-------------------------------------|
